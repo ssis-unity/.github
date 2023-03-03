@@ -21,13 +21,10 @@ While Soleil, Matthew, Mia and Yoyo were already very active early 2022, so in 2
 
 More details and program code is in the [unity2022](https://github.com/ssis-unity/unity2022) repository. It also containes a [Documentation](https://github.com/ssis-unity/unity2022/tree/master/Documentation) folder.
 
-<!--
+### Game Exibition 2023/03/03
 
-**Here are some ideas to get you started:**
+After a semester of developing the students showed their project. Visitors and fellow programmers had fun trying out these seven challenging games:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Games March 2023](https://github.com/ssis-unity/unity2022/blob/master/Documentation/2023-03-03_games.jpg)
+
+
