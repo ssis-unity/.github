@@ -1,6 +1,6 @@
-# Unity Impact Programmiong Club at SSIS
+# Unity Impact Programming Club at SSIS
 
-Writing games for everyone
+Writing games for everyone.
 
 ## The club in social media
 
@@ -17,7 +17,7 @@ You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](
 
 ## Season 2022-2023
 
-While Soleil, Matthew, Mia and Yoyo were already very active early 2022, so in 2021-2022, the club was only formed in the 2022-2023 season. And 15 students joined right on the spot.
+Soleil, Matthew, Mia and Yoyo were already very active in the school year 2021-2022 ,spedifically early 2022. As good friends they connected over discord and taught themselves programming, even participating in a hackaton. Finally the club was formed in the 2022-2023 season. And 15 students joined right on the spot.
 
 More details and program code is in the [unity2022](https://github.com/ssis-unity/unity2022) repository. It also containes a [Documentation](https://github.com/ssis-unity/unity2022/tree/master/Documentation) folder.
 
