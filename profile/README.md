@@ -17,11 +17,38 @@ You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](
 
 ## Season 2022-2023
 
-Soleil, Matthew, Mia and Yoyo were already very active in the school year 2021-2022 ,spedifically early 2022. As good friends they connected over discord and taught themselves programming, even participating in a hackaton. Finally the club was formed in the 2022-2023 season. And 15 students joined right on the spot.
+Soleil, Matthew, Mia and Yoyo were already very active in the school year 2021-2022, specifically early 2022. As good friends they connected over discord and taught themselves programming, even participating in a hackathon. Finally the club was formed in the 2022-2023 season And 16 students joined in September 2022: 3 freshmen, 4 sophomores, 6 juniors and 3 seniors.
 
-More details and program code is in the [unity2022](https://github.com/ssis-unity/unity2022) repository. It also containes a [Documentation](https://github.com/ssis-unity/unity2022/tree/master/Documentation) folder.
+<!-- 
+grade 9: 
+Liew, Yi-Ern (Brian)
+Nyagaya, Michelle
+Thai, Bao Nhi
 
-### Game Exibition 2023/03/03
+grade 10:
+Le, Nam
+Luong, Jocelyn
+Torres, Mikel Aidan
+Tran, Minh Hoang
+
+grade 11:
+Chou, Ci Min (Lucy)
+Nguyen, Dac-Khang
+Pham, Chan-Nhu (Soleil)
+Phan, Minh (Yoyo)
+Rangstrup, Matthew
+Suh, Wonhyung (Wayne)
+
+grade 12:
+Le, Anh (Alice)
+Nguyen, Han (Mia)
+Yam, Ethan
+
+-->
+
+More details and program code is in the [unity2022](https://github.com/ssis-unity/unity2022) repository. It also contains a [Documentation](https://github.com/ssis-unity/unity2022/tree/master/Documentation) folder.
+
+### Game Exhibition 2023/03/03
 
 After a semester of developing the students showed their project. Visitors and fellow programmers had fun trying out these seven challenging games:
 
