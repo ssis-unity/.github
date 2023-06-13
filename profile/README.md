@@ -4,7 +4,7 @@ Writing games for everyone.
 
 ## The club in social media
 
-You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](https://sites.google.com/ssis.edu.vn/unityimpact) and on our [Instagram account](https://www.instagram.com/unity_impact/) or on our [Youtube Channel]()
+You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](https://sites.google.com/ssis.edu.vn/unityimpact) , on our [Instagram account](https://www.instagram.com/unity_impact/) or at the [Youtube Channel](https://www.youtube.com/@unityimpact).
 
 <img src="https://github.com/ssis-unity/.github/blob/main/profile/20220919_asg_itch.io.png" align="right" width="25%">
 
@@ -12,7 +12,7 @@ You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](
 
 - Website [https://sites.google.com/ssis.edu.vn/unityimpact](https://sites.google.com/ssis.edu.vn/unityimpact)
 - Instagram [https://www.instagram.com/unity_impact/](https://www.instagram.com/unity_impact/)
-- Youtube [Unity Impact](https://www.youtube.com/channel/UCYwXpmGJ3De0EM0Upb-92vg)
+- Youtube Channel [@unityimpact](https://www.youtube.com/@unityimpact)
 - itch.io [https://unityimpact.itch.io/](https://unityimpact.itch.io/)
 
 ## Season 2022-2023
