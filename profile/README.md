@@ -52,6 +52,6 @@ More details and program code is in the [unity2022](https://github.com/ssis-unit
 
 After a semester of developing the students showed their project. Visitors and fellow programmers had fun trying out these seven challenging games:
 
-![Games March 2023](https://github.com/ssis-unity/unity2022/blob/master/Documentation/2023-03-03_games.jpg)
+![Games March 2023](https://github.com/ssis-unity/unity2022/blob/main/Documentation/2023-03-03_games.jpg)
 
 
